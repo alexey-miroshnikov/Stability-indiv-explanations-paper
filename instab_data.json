@@ -1,0 +1,30 @@
+{
+  
+  "seed" : 123,
+
+  "sample_train_size" : 25000,
+
+  "sample_test_size"  : 25000,
+
+  "expl_size" : 1000,
+
+  "ave_size"  : 1000,
+  
+  "eps_pred_list" : [ 0.0, 0.001, 0.0025, 0.005, 0.01 ],
+
+  "model_params_dict":  ["XGBoost", { "n_estimators": 300,
+                          "max_depth": 5,  
+                          "subsample": 1,
+                          "early_stopping_rounds" : null,
+                          "alpha" :  10,
+                          "lambda" : 10,
+                          "learning_rate": 0.1                 
+                          } ],
+  
+  "pipeline" :
+    {
+      "step_1_train"     : 1,
+      "step_2_explain"   : 1,
+      "step_3_plot"      : 1
+    }
+}

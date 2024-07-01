@@ -1,0 +1,19 @@
+{
+    "Y_pred_mean_train": 0.0003312846238259226,
+    "L2_norm_train": 1.360100507736206,
+    "L2_norm_centered_train": 1.3601003885269165,
+    "L2_norm_centered_test": 1.358871340751648,
+    "L2_norm_test": 1.3589328527450562,
+    "L2_error_train": 0.06407706044789344,
+    "L2_error_test": 0.0724731123376673,
+    "L2_rerror_train": 0.04643368139509386,
+    "L2_rerror_test": 0.05253274924983668,
+    "L2_norm_train_mix": 1.3657578229904175,
+    "L2_norm_test_mix": 1.3584579229354858,
+    "L2_error_train_mix": 0.06908198708918598,
+    "L2_error_test_mix": 0.06762632659338161,
+    "L2_rerror_train_mix": 0.05058143246650155,
+    "L2_rerror_test_mix": 0.04978168661068881,
+    "L2_diff_train_mix": 0.06908198708918598,
+    "L2_diff_test_mix": 0.06762632659338161
+}

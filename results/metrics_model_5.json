@@ -1,0 +1,10 @@
+{
+    "L2_norm_train_mix": 1.3866653371201054,
+    "L2_norm_test_mix": 1.3799949627599049,
+    "L2_error_train_mix": 0.0,
+    "L2_error_test_mix": 0.0,
+    "L2_rerror_train_mix": 0.0,
+    "L2_rerror_test_mix": 0.0,
+    "L2_diff_train_mix": 0.0,
+    "L2_diff_test_mix": 0.0
+}
