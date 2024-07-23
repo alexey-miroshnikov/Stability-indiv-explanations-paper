@@ -58,7 +58,7 @@ Thumbs.db
 *.aux
 *.out
 # *.pdf
-**/*.pdf
+# **/*.pdf
 **/*.gz
 .vscode
 .vscode/*
