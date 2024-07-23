@@ -1,1 +1,3 @@
 # Stability-indiv-explanations-paper
+
+This repository is devoted to the paper **Stability of game-theoretic feature explanations for machine learning models**. The paper is based on the first half of the preprint https://arxiv.org/abs/2102.10878v5 (the second half will appear as an independent paper). The PDF files of the paper and its relevant supplemental material are available in the folder `paper`. The codes are for the numerical examples outlined in the first section of the supplemental material which demonstrate the stability results established in the paper. 
